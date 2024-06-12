@@ -1,0 +1,7 @@
+boto3
+polars[pyarrow]
+duckdb
+fsspec 
+s3fs 
+adlfs 
+gcsfs
