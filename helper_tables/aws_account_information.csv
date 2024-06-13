@@ -1,0 +1,4 @@
+account_id,env_level,owner_email,account_alias
+137294155267,prod,dakota@example.com,super_secret_prod
+211125761087,prod,bob@example.com,its_just_dev
+637423320304,prod,rick@example.com,financial_data_here
